@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hey, I'm Victor Rivera Portillo 👋
 
-<!--
-**vrivera06/vrivera06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Software Engineering student** at Pace University in New York, building full-stack web apps and AI-powered tools that solve real problems. I care about clean code, thoughtful design, and shipping things people actually use.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ What I Work With
+
+**Languages:** Python · JavaScript · Java · C · C#  
+**Frameworks:** React · Django · Node.js · Express.js  
+**Databases:** MySQL · MongoDB  
+**Tools:** Git · GitHub · REST API Design · Stripe API · Unity
+
+---
+
+## 📌 What I'm Up To
+
+- 🎓 Studying Computer Science @ Pace University (May 2027)
+- 💼 Teaching coding as a Code Coach @ The Coder School
+- 🔭 Always building something new
+- 📍 New York, NY
+
+---
+
+## 📬 Reach Me
+
+[![LinkedIn](https://www.linkedin.com/in/victor-rivera-portillo-244616330/)
+[![Email](vriveraportillo1@gmail.com)
