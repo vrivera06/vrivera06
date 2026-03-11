@@ -24,5 +24,6 @@ I'm a **Software Engineering student** at Pace University in New York, building 
 
 ## 📬 Reach Me
 
-[![LinkedIn](https://www.linkedin.com/in/victor-rivera-portillo-244616330/)
-[![Email](vriveraportillo1@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/victor-rivera-portillo-244616330/)
+- 🌐 [Portfolio](https://yourusername.github.io)
+- 📧 vriveraportillo1@gmail.com
